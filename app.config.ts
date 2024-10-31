@@ -3,9 +3,9 @@ export default defineAppConfig({
   cover: '/cover.jpg',
 
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind',
-    mastodon: '@atinux@webtoo.ls'
+    twitter: 'elonmusk',
+    github: 'google.com',
+    mastodon: '@elonmusk'
   },
 
   nuxtIcon: {
