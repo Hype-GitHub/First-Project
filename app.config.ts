@@ -9,6 +9,7 @@ export default defineAppConfig({
   },
 
   nuxtIcon: {
-    size: ''
+    size: '',
+    aliases: {}
   }
 })
